@@ -1,5 +1,7 @@
 # Ancient Secrets of Prediction
 
+Making predictions is what our brain does all the time. As we walk, we are making thousands of predictions. The brain is predicting which signals to send to which body parts.
+
 During the world war, the army need to predict the extact angle at which a bomb need to be thrown. Or predict the position where bomb will hit. In the ancient egypt, they need to predict the time of Solar eclips and the rains. If you look closely, every human science is evolved around predictions. We predict for survival. Actually, the brain roles is to predict for survival. The predictions are based on what we learnt from the past.
 
 As part of this tutorial, we are going to learn to predict using basic mathematics. This is usually called Machine Learning. We would start with extremely simple example and then we will gradually reach image recognition.
